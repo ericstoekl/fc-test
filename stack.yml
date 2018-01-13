@@ -6,4 +6,4 @@ functions:
   mma-stats:
     lang: node
     handler: ./mma-stats
-    image: mma-stats
+    image: ericstoekl/mma-stats
