@@ -1,0 +1,10 @@
+{
+  "name": "mma-stat-bot",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "emoji-flags": "https://github.com/stoicism2323/emoji-flags/tarball/master",
+    "mma": "^0.2.0",
+    "node-telegram-bot-api": "^0.23.3"
+  }
+}
