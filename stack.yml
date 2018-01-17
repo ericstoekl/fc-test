@@ -7,3 +7,9 @@ functions:
     lang: node
     handler: ./mma-stats
     image: ericstoekl/mma-stats
+
+  screenshotter:
+    lang: Dockerfile
+    handler: ./screenshotter
+    image: ericstoekl/screenshotter
+
