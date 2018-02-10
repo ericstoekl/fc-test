@@ -13,3 +13,8 @@ functions:
     handler: ./screenshotter
     image: ericstoekl/screenshotter
 
+  node-eval:
+    lang: node
+    handler: ./node-eval
+    image: ericstoekl/node-eval
+
